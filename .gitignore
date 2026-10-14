@@ -1,0 +1,56 @@
+# ---- Keil MDK build output ----
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.dep
+*.bak
+*.iex
+*.hex
+*.bin
+*.map
+*.lst
+*.sct
+*.build_log.htm
+*.map.htm
+JLinkLog.txt
+JLinkSettings.ini
+*.uvguix.*
+*.uvoptx.bak
+EventRecorderStub.scvd
+uv4.log.lock
+
+# ---- IDE / editor state and logs ----
+*.log
+*.lock
+.vscode/uv4.log.lock
+
+# ---- Office temp files ----
+~$*
+~WRL*.tmp
+*.tmp
+
+# ---- Private graduation materials ----
+毕设文件/
+22电信本科1班*
+
+# ---- Reference manual package (too large for GitHub: videos + installers) ----
+White_flyer/
+
+# ---- Older duplicate code copies (newest version kept at top level) ----
+代码/fly_lib/
+代码/remote_lib/
+
+# ---- Archived copies (contents already present in fly_lib / remote_lib) ----
+fly_lib.zip
+remote_lib.zip
+
+# ---- OS files ----
+Thumbs.db
+desktop.ini
+.DS_Store
